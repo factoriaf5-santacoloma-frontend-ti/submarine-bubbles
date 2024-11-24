@@ -90,9 +90,9 @@ Crear una experiencia inmersiva submarina donde los jugadores, como buzos explor
 
 
 ## Recursos
-Aframe: https://aframe.io/
-A-frame, Github: https://github.com/aframevr/aframe/
-https://www.turbosquid.com/es/
-https://sketchfab.com/
-https://nasa3d.arc.nasa.gov/
-Ejemplo: https://www.youtube.com/watch?v=GHzStTeFztM
+- Aframe: https://aframe.io/
+- A-frame, Github: https://github.com/aframevr/aframe/
+- https://www.turbosquid.com/es/
+- https://sketchfab.com/
+- https://nasa3d.arc.nasa.gov/
+- Ejemplo: https://www.youtube.com/watch?v=GHzStTeFztM
